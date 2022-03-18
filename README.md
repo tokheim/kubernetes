@@ -1,0 +1,1 @@
+Proxysql chart repository
